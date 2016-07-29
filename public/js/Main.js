@@ -23,7 +23,7 @@ function create() {
 	  // trying to get the click to work!!!!!!
 	  // circle.events.onInputDown.add(listener, circle);
 		// circle.downPoint()
-		circle_sprite.input.event.downPoint(spit(), this)
+		// circle_sprite.input.event.downPoint(spit(), this)
 	}
 }
 
